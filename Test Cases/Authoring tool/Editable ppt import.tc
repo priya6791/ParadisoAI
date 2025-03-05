@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Editable ppt import</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>514d0727-e32f-43b7-9929-fb71c5085045</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0242f782-d572-48b6-bc83-91c88f5f3898</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\Noel\\\\Desktop\\\\Paradiso\\\\Import\\\\PPTX\\\\Anatomy and physiology - Copy.pptx'</defaultValue>
+      <description></description>
+      <id>0242f782-d572-48b6-bc83-91c88f5f3898</id>
+      <masked>false</masked>
+      <name>anatomy</name>
+   </variable>
+</TestCaseEntity>
