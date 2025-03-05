@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create-noneditable-ppt-import</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0eb39691-8557-4d99-8f2a-a50570d3617e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2a78a301-33bf-4982-a598-47b7b2275cbd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\Noel\\\\Desktop\\\\Paradiso\\\\Import\\\\PPTX\\\\iX Product Series_Feb 2023 Monthly Product Focus (1) - Copy.pptx'</defaultValue>
+      <description></description>
+      <id>2a78a301-33bf-4982-a598-47b7b2275cbd</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

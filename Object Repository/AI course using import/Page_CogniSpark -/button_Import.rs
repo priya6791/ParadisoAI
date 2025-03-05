@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Import</name>
+   <tag></tag>
+   <elementGuidId>00c263dd-1b38-4ffa-95e4-fa8be8335bc2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id=''])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.item.course_type.Import > div.card > div.card-body > div.d-flex.justify-content-between.w-100 > button.btn.creation.w-100</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>fb0ef064-bfbd-4253-bfa9-e45a5f5ee9e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e9e62449-1ed4-4248-a9af-1269a5459d17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn creation w-100</value>
+      <webElementGuid>fdb56fb0-cdd6-44dd-b69a-58d776bd8530</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>checktype('import_file')</value>
+      <webElementGuid>a25a6d80-1406-466d-9822-c00eef1c475e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Import </value>
+      <webElementGuid>42e099f7-5fdf-4bab-8626-7e135a6cb3e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;sf-js-enabled&quot;]/body[@class=&quot;app sidebar-mini change-course-bg&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;page-main&quot;]/div[@class=&quot;app-content main-content&quot;]/div[@class=&quot;side-app&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12 course-creation&quot;]/div[@class=&quot;card overflow-hidden border-0 shadow-none&quot;]/div[@class=&quot;card-body pb-0&quot;]/div[@class=&quot;row creation-grid&quot;]/div[@class=&quot;item course_type Import&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;d-flex justify-content-between w-100&quot;]/button[@class=&quot;btn creation w-100&quot;]</value>
+      <webElementGuid>4213099e-ce9a-4e29-8a19-757c07240777</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@id=''])[3]</value>
+      <webElementGuid>3f986086-930a-4896-816b-13d024e29fe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import Content'])[1]/following::button[1]</value>
+      <webElementGuid>2a6a3cd4-4150-4e0f-9ed3-0364c6714859</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generate Course'])[1]/following::button[1]</value>
+      <webElementGuid>c7881f41-c6b4-4908-9525-eb4612d6b30e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CogniSpark'])[1]/preceding::button[1]</value>
+      <webElementGuid>b566ab92-cfc8-4370-85b4-0afa547c7a70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Import']/parent::*</value>
+      <webElementGuid>79cc8144-ac44-4bf8-a852-172f223784be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div[3]/div/div/div/button</value>
+      <webElementGuid>c3d9b7a6-7846-4b35-940c-c5f55393fabc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Import ' or . = 'Import ')]</value>
+      <webElementGuid>1e1e9866-b297-427e-a611-3663bddb6085</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

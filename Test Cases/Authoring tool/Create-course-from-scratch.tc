@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create-course-from-scratch</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>802d1d20-74a0-4730-8508-c4f6ca42f5ef</testCaseGuid>
+</TestCaseEntity>

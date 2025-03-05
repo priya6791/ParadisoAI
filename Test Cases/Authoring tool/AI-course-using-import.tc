@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AI-course-using-import</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9ad24585-f214-4a3c-9772-3573a94c3b95</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ad616790-54c2-481e-b891-b76ead0e6312</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\Noel\\\\Desktop\\\\Paradiso\\\\Import\\\\PPTX\\\\Anatomy and physiology - Copy.pptx'</defaultValue>
+      <description></description>
+      <id>ad616790-54c2-481e-b891-b76ead0e6312</id>
+      <masked>false</masked>
+      <name>Anatomy</name>
+   </variable>
+</TestCaseEntity>

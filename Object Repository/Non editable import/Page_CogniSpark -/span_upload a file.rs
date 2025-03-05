@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_upload a file</name>
+   <tag></tag>
+   <elementGuidId>5317a7f0-41b0-4cd9-8214-234b63eeaeb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;import-course-media&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.filepond--label-action</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cf5993ff-e09c-47c8-87ac-8a56dd57c435</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filepond--label-action</value>
+      <webElementGuid>354a7a78-3f7c-41a5-83e4-54786774e8b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>upload a file</value>
+      <webElementGuid>b1a94327-aeec-42e9-a374-3d959c86a658</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;span-msg&quot;)/span[@class=&quot;filepond--label-action&quot;]</value>
+      <webElementGuid>aa92b33c-43a0-4925-a245-6b9b0d801be2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='span-msg']/span</value>
+      <webElementGuid>d2dc2a51-c5f4-44dc-8db1-1ec5ea0c9829</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select a file'])[1]/following::span[3]</value>
+      <webElementGuid>ccd7e280-0ec4-4835-a7cf-2f0d4d0ac6d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import as it is'])[1]/preceding::span[2]</value>
+      <webElementGuid>3048237f-ec1e-479a-946b-77a267313ead</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='upload a file']/parent::*</value>
+      <webElementGuid>3a04d357-eaf2-420a-acf6-64c29e4be6c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span</value>
+      <webElementGuid>d31e7fa1-bd1b-4763-b3f5-576391543f4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'upload a file' or . = 'upload a file')]</value>
+      <webElementGuid>17daf8c6-aa59-48a5-b9fd-3cf174e0cf21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

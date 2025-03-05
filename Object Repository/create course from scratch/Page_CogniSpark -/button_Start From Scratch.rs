@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Start From Scratch</name>
+   <tag></tag>
+   <elementGuidId>9dcc52bc-7599-4da5-b49d-30dafc0c3564</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.creation.w-100</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>622a6b23-93d7-4ea7-a696-8fcb1af4d984</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f3776124-15c1-4010-93f9-7bafcd13cb8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn creation w-100</value>
+      <webElementGuid>f81814a3-74ee-4d5a-8127-d592334f744b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>checktype('blank')</value>
+      <webElementGuid>a7906f18-2139-44b2-8f9d-66e6b1fb959f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start From Scratch </value>
+      <webElementGuid>05f59cbb-4470-4296-ae14-6f8350ea370e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;sf-js-enabled&quot;]/body[@class=&quot;app sidebar-mini change-course-bg&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;page-main&quot;]/div[@class=&quot;app-content main-content&quot;]/div[@class=&quot;side-app&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12 course-creation&quot;]/div[@class=&quot;card overflow-hidden border-0 shadow-none&quot;]/div[@class=&quot;card-body pb-0&quot;]/div[@class=&quot;row creation-grid&quot;]/div[@class=&quot;item course_type Empty&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;d-flex justify-content-between w-100&quot;]/button[@class=&quot;btn creation w-100&quot;]</value>
+      <webElementGuid>6be9b8aa-75f4-4682-9fd9-b602a1a4f7f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='']</value>
+      <webElementGuid>cbd051ae-dcc9-437f-b88c-8eb86e819e3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Empty Course'])[1]/following::button[1]</value>
+      <webElementGuid>05050dc5-011e-4af7-a585-7557e97a0274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create a New Course'])[1]/following::button[1]</value>
+      <webElementGuid>dd5b4ec0-d63c-4a19-9936-128f80314d10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generate Course'])[1]/preceding::button[1]</value>
+      <webElementGuid>53db942b-e1b2-4b5a-bbe4-860e9c37db89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start From Scratch']/parent::*</value>
+      <webElementGuid>90f26e30-a951-4b7d-a123-023aaac50d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/div/div/div/button</value>
+      <webElementGuid>84a92ac4-235d-4f9a-8465-b224d4117dae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Start From Scratch ' or . = 'Start From Scratch ')]</value>
+      <webElementGuid>424b90c2-3b88-47fd-b20d-210ea97cf4da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
