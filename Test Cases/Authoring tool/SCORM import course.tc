@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SCORM import course</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8fab5971-1d23-4764-b78a-9abdd3636fe4</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>84d17070-c7db-4dfc-bb42-1510e7d83f30</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\Noel\\\\Desktop\\\\Paradiso\\\\Import\\\\SCORM\\\\Effective Communication-scorm-v2004.zip'</defaultValue>
+      <description></description>
+      <id>84d17070-c7db-4dfc-bb42-1510e7d83f30</id>
+      <masked>false</masked>
+      <name>EffectiveCommunication</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Generate Book</name>
+   <tag></tag>
+   <elementGuidId>e0f53e8e-4e8b-47ec-9f10-19558dde646e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.creation.w-100</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>52de8745-eb6f-4fc3-9a7e-79b26d26f6fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c5849541-62f6-4540-ab47-e358b831d9b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn creation w-100</value>
+      <webElementGuid>12633409-a417-435a-af36-6cc86cb252c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>checktype('book')</value>
+      <webElementGuid>b942e31a-d484-4796-ac50-edc023e6d716</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Generate Book</value>
+      <webElementGuid>216c82aa-c0f5-4ae2-8c8e-4c6b74112cfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;sf-js-enabled&quot;]/body[@class=&quot;app sidebar-mini change-course-bg&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;page-main&quot;]/div[@class=&quot;app-content main-content&quot;]/div[@class=&quot;side-app&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12 course-creation&quot;]/div[@class=&quot;card overflow-hidden border-0 shadow-none&quot;]/div[@class=&quot;card-body pb-0&quot;]/div[@class=&quot;row creation-grid book&quot;]/div[@class=&quot;item course_type Empty&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;d-flex justify-content-between w-100&quot;]/button[@class=&quot;btn creation w-100&quot;]</value>
+      <webElementGuid>ae4d14fe-7883-4b93-be6c-2c3ce2edbae0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='']</value>
+      <webElementGuid>face75e9-b342-49c6-b27a-4144c2ba00d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book'])[1]/following::button[1]</value>
+      <webElementGuid>03783c0a-e910-4cd9-bbb0-e9265c3a726a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Document'])[1]/following::button[1]</value>
+      <webElementGuid>da5aabcf-11e1-4f98-9a1d-8936a551f358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Policy'])[1]/preceding::button[1]</value>
+      <webElementGuid>fa33a444-9109-4162-a9a2-111c5b63e471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generate Policy'])[1]/preceding::button[1]</value>
+      <webElementGuid>df0b1e43-1f98-45f5-a67e-f61a73f88107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Generate Book']/parent::*</value>
+      <webElementGuid>dccd0f0a-3aa1-4222-8091-941db5cb6927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/div/div/div/button</value>
+      <webElementGuid>209d920d-c447-4dd4-af39-6b3e3db99567</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Generate Book' or . = 'Generate Book')]</value>
+      <webElementGuid>2d0a93d1-80b8-42e7-866b-382e5aceae78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

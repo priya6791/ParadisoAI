@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SCORM Export</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>839d3876-a115-4130-b28e-fe7085fa3d5a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3defca47-2ba2-4bc2-b374-794d95999411</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\Noel\\\\Desktop\\\\Paradiso\\\\Import\\\\SCORM\\\\Effective Communication-scorm-v2004.zip'</defaultValue>
+      <description></description>
+      <id>3defca47-2ba2-4bc2-b374-794d95999411</id>
+      <masked>false</masked>
+      <name>EffectiveCommunication</name>
+   </variable>
+</TestCaseEntity>

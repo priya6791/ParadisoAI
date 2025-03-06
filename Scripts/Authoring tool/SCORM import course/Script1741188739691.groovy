@@ -21,7 +21,10 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://dev.cognispark.ai/login')
 
-WebUI.setText(findTestObject('Object Repository/Editable PPT import,SCORM import and export/Page_CogniSpark - Login/input_OR_email'), 'priyanka.test@paradiso.ai')
+WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('Object Repository/Editable PPT import,SCORM import and export/Page_CogniSpark - Login/input_OR_email'), 
+    'priyanka.test@paradiso.ai')
 
 WebUI.click(findTestObject('Object Repository/Editable PPT import,SCORM import and export/Page_CogniSpark - Login/div_Login with Google                      _cecd6e'))
 
@@ -36,7 +39,7 @@ WebUI.click(findTestObject('Object Repository/Editable PPT import,SCORM import a
 
 WebUI.click(findTestObject('Object Repository/Editable PPT import,SCORM import and export/Page_CogniSpark -/button_Import'))
 
-WebUI.uploadFile(findTestObject('Editable PPT import,SCORM import and export/Page_CogniSpark -/span_upload a file'), anatomy)
+WebUI.uploadFile(findTestObject('Editable PPT import,SCORM import and export/Page_CogniSpark -/span_upload a file'), EffectiveCommunication)
 
 WebUI.click(findTestObject('Object Repository/Editable PPT import,SCORM import and export/Page_CogniSpark -/button_Import_1'))
 
