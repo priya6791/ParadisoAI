@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Add-image-to-slide</name>
+   <tag></tag>
+   <elementGuidId>edd1cc9a-f1b3-43f5-8b34-93c00ea4e358</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-plus-circle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='uploadImageTab']/div[2]/div[2]/div/div/span/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>376d54bb-5d3b-44d5-92ab-552bd3e4c7db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-plus-circle</value>
+      <webElementGuid>3566ac8a-2972-4ebc-b829-9747c01cc5f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uploadImageTab&quot;)/div[@class=&quot;un-pix up we-scroll&quot;]/div[@class=&quot;upload-images we-scroll upload-sec&quot;]/div[@class=&quot;item&quot;]/div[@class=&quot;bg-warning&quot;]/span[@class=&quot;control&quot;]/button[@class=&quot;btn p-0 btn-link fs-12 add-image&quot;]/i[@class=&quot;fa fa-plus-circle&quot;]</value>
+      <webElementGuid>eb0d63c4-b702-4fca-b530-3736c78eace7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uploadImageTab']/div[2]/div[2]/div/div/span/button/i</value>
+      <webElementGuid>34b2ae9a-68be-4b5e-9dd3-c91a034b61ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div[2]/div[2]/div/div/span/button/i</value>
+      <webElementGuid>06dc379c-9205-40fa-9749-5299cb845cfa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

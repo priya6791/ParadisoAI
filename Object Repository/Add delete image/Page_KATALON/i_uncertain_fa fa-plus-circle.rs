@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_uncertain_fa fa-plus-circle</name>
+   <tag></tag>
+   <elementGuidId>6c9c7880-4e18-40fa-9bde-3afeafdc1179</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.item.filter.8.upl-img > div.bg-warning > span.control > button.btn.p-0.btn-link.fs-12.add-image > i.fa.fa-plus-circle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='medialibrary']/div[3]/div[3]/div/div/span/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d46251ec-79b4-47ea-91aa-eba7a323ea1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-plus-circle</value>
+      <webElementGuid>8607c846-a69c-40bb-803e-9f9b395cbbe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;medialibrary&quot;)/div[@class=&quot;un-pix we-scroll&quot;]/div[@class=&quot;upload-images we-scroll&quot;]/div[@class=&quot;item filter 8 upl-img&quot;]/div[@class=&quot;bg-warning&quot;]/span[@class=&quot;control&quot;]/button[@class=&quot;btn p-0 btn-link fs-12  add-image&quot;]/i[@class=&quot;fa fa-plus-circle&quot;]</value>
+      <webElementGuid>30f200e3-9d31-4cf5-aa96-71412bbfefbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='medialibrary']/div[3]/div[3]/div/div/span/button/i</value>
+      <webElementGuid>22104e26-58e3-4a1b-846a-14e2c2c1e652</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/span/button/i</value>
+      <webElementGuid>0642a81c-a64f-4d31-ad55-1b520ffcb6d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

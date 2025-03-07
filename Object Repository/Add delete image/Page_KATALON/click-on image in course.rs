@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>click-on image in course</name>
+   <tag></tag>
+   <elementGuidId>57df128e-9513-40ff-8e05-f40c701459c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.trans-icon.delete-element > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;mousedrag&quot;]/section/div/div[1]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>bd43dcfc-d809-4f51-aafc-3f73bf47b2e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/composer/svg/delete.svg</value>
+      <webElementGuid>d326159a-62e0-4f54-b219-e228c0414c15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mousedrag&quot;)/section[@class=&quot;present has-light-background&quot;]/div[@class=&quot;sl-block focused border-dotted&quot;]/div[@class=&quot;sl-block-transform&quot;]/div[@class=&quot;transform-icons&quot;]/span[@class=&quot;otherpart&quot;]/span[@class=&quot;trans-icon delete-element&quot;]/img[1]</value>
+      <webElementGuid>4d8678d9-e9c6-40ab-9884-aa9d2551da68</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mousedrag']/section/div/div[2]/div[10]/span[3]/span[7]/img</value>
+      <webElementGuid>0303458d-a2c8-4b3b-a919-b9589cf88067</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[7]/img</value>
+      <webElementGuid>83598bc3-cdbb-41f7-80e0-e73ad77dff9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/composer/svg/delete.svg']</value>
+      <webElementGuid>6d144152-fb75-4c21-b806-e5dcc1001211</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

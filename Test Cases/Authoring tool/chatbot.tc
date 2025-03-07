@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>chatbot</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c0f40714-f461-4d3b-86a4-8aae20b7cfcb</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>62e7c0e9-7f7a-49e6-a87d-86cfcc8d9068</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\Noel\\\\Desktop\\\\Paradiso\\\\Import\\\\PDF\\\\Employee Guidebook 1.pdf'</defaultValue>
+      <description></description>
+      <id>62e7c0e9-7f7a-49e6-a87d-86cfcc8d9068</id>
+      <masked>false</masked>
+      <name>employee</name>
+   </variable>
+</TestCaseEntity>

@@ -17,3 +17,36 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://dev.cognispark.ai/login')
+WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('Object Repository/Add delete image/Page_CogniSpark - Login/input_OR_email'), 'priyanka.test@paradiso.ai')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Add delete image/Page_CogniSpark - Login/input_OR_password'), 'in7GmIa9L6ESdofxqXkKev/Rqoz+a4wZHoIRYULSYOs=')
+
+WebUI.click(findTestObject('Object Repository/Add delete image/Page_CogniSpark - Login/button_Login'))
+
+WebUI.click(findTestObject('Object Repository/Add delete image/Page_CogniSpark - Home/a_Course Creator'))
+
+WebUI.click(findTestObject('Object Repository/Add delete image/Page_CogniSpark - Course Creator/Open_course'))
+
+WebUI.switchToWindowTitle('KATALON')
+
+WebUI.click(findTestObject('Object Repository/Add delete image/Page_KATALON/div_Media                                  _f11f23'))
+
+WebUI.click(findTestObject('Object Repository/Add delete image/Page_KATALON/div_Image'))
+
+WebUI.click(findTestObject('Object Repository/Add delete image/Page_KATALON/div_Created with Fabric.js 5.2.4           _615960'))
+
+WebUI.click(findTestObject('Object Repository/Add delete image/Page_KATALON/i_uncertain_fa fa-plus-circle'))
+
+WebUI.click(findTestObject('Object Repository/Add delete image/Page_KATALON/click-on image in course'))
+
+WebUI.click(findTestObject('Object Repository/Add delete image/Page_KATALON/button_Delete'))
+
+WebUI.click(findTestObject('Add delete image/Page_KATALON/Confirm_delete'))
+
+WebUI.click(findTestObject('Add delete image/Page_KATALON/save_button'))
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Image setting test</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9fab4ea5-87ee-4161-b6a5-8ff4860083bd</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dcdd3e59-4f8d-4989-93da-f829cf70d1a5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\Noel\\\\Desktop\\\\Paradiso\\\\KATALON_DATA\\\\AI_image.png'</defaultValue>
+      <description></description>
+      <id>dcdd3e59-4f8d-4989-93da-f829cf70d1a5</id>
+      <masked>false</masked>
+      <name>upload_image</name>
+   </variable>
+</TestCaseEntity>

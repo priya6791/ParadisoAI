@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Image</name>
+   <tag></tag>
+   <elementGuidId>8d11aefe-016a-4e45-9657-2f2cad64a80d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#addImages</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='addImages']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f2e42f4b-598f-46c8-9bd7-ec7f93fb9b0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>single-option imageModalOpen</value>
+      <webElementGuid>b02df4cf-19a1-47d0-8931-6c53f29aedfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>image</value>
+      <webElementGuid>d241e7b6-d8be-42cf-9827-a2a189df6a8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>addImages</value>
+      <webElementGuid>2d111571-0b45-4fe1-8736-316a0750f3e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#category-1</value>
+      <webElementGuid>550c68a7-0a0e-44ee-8080-b94f0fad48fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    
+                                    Image
+                                </value>
+      <webElementGuid>e343a2ef-588d-45b3-9e83-f68e107de993</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addImages&quot;)</value>
+      <webElementGuid>52e3d34c-652a-4b21-8395-a23632ad986e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='addImages']</value>
+      <webElementGuid>c57e000b-9ce5-41bc-b984-66d2bede7e13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Media'])[1]/following::div[2]</value>
+      <webElementGuid>47ba28e2-0799-4210-b039-c90bd51795ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text'])[1]/following::div[3]</value>
+      <webElementGuid>3cfaed14-5c14-46db-83bd-11eb1e92201d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interactive Video'])[1]/preceding::div[1]</value>
+      <webElementGuid>ef6215c8-b6ab-4c63-b389-4ffa8463331a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li/div</value>
+      <webElementGuid>c4085a1c-1611-48e8-9cb0-04a2a25e4556</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'addImages' and (text() = '
+                                    
+                                    Image
+                                ' or . = '
+                                    
+                                    Image
+                                ')]</value>
+      <webElementGuid>0a88731e-fa3d-4d47-b7b2-b7bd0d16378b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

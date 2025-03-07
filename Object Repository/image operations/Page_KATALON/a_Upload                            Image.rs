@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Upload                            Image</name>
+   <tag></tag>
+   <elementGuidId>737f9a43-1496-40b8-b1be-ecf2891b3290</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link.image-nav.active</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@class=&quot;nav nav-pills nav-fill image-modal-nav&quot;]/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>939e939f-a59e-4d8d-a90b-a4a54cd04a01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link image-nav active</value>
+      <webElementGuid>ca8c9f6f-bfc5-4018-9e36-21b5a5a9ad9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bs-toggle</name>
+      <type>Main</type>
+      <value>pill</value>
+      <webElementGuid>3b230642-58fd-49c8-9a89-12d33e1f7b4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#uploadImageTab</value>
+      <webElementGuid>e5a5b212-1493-4810-be8f-0e806ad104e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Upload
+                            Image</value>
+      <webElementGuid>b9be6ec8-8668-4a0a-b619-cbeb49a2c527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;upload&quot;)/div[@class=&quot;modal-header&quot;]/ul[@class=&quot;nav nav-pills nav-fill image-modal-nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link image-nav active&quot;]</value>
+      <webElementGuid>98a62ad8-8f26-40de-9110-24999e60775d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='upload']/div/ul/li[2]/a</value>
+      <webElementGuid>eaa60388-e831-4ca8-b072-267fc74bd195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Upload
+                            Image')]</value>
+      <webElementGuid>a9d1d6d7-8db0-494b-af15-911fe90b559a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Media Library'])[1]/following::a[1]</value>
+      <webElementGuid>50ffcc49-0aa4-4626-9346-e4028152685c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cartoon Cutouts'])[1]/following::a[2]</value>
+      <webElementGuid>053b0a20-97b2-49c6-9133-5703f6a5f2ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/preceding::a[1]</value>
+      <webElementGuid>c9fa93aa-bf09-433c-a2c5-bb36f9dbfae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Text To Image'])[1]/preceding::a[2]</value>
+      <webElementGuid>030f144f-ce6e-4f1a-b96c-b872534585a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#uploadImageTab')]</value>
+      <webElementGuid>1a079128-d99a-4159-bed3-ab5d7aa2df79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/ul/li[2]/a</value>
+      <webElementGuid>73ebc85c-be5c-45ab-ae17-e3b0c73d52bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#uploadImageTab' and (text() = ' Upload
+                            Image' or . = ' Upload
+                            Image')]</value>
+      <webElementGuid>c076d602-9282-4350-9548-c4b8dd8d15c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

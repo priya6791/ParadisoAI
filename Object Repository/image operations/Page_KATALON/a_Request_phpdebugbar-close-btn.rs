@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Request_phpdebugbar-close-btn</name>
+   <tag></tag>
+   <elementGuidId>16ba0287-224c-4b1b-8236-2e5c055e5f21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.phpdebugbar-close-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d4883ad8-f79c-4f37-a1bc-3c2f73b015e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>phpdebugbar-close-btn</value>
+      <webElementGuid>bc3cd085-3ea4-4ac6-a068-a5eede11b16c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;sf-js-enabled reveal-full-page&quot;]/body[@class=&quot;reveal-viewport&quot;]/div[@class=&quot;phpdebugbar phpdebugbar-minimized&quot;]/div[@class=&quot;phpdebugbar-header phpdebugbar-mini-design&quot;]/div[@class=&quot;phpdebugbar-header-right&quot;]/a[@class=&quot;phpdebugbar-close-btn&quot;]</value>
+      <webElementGuid>196dbcec-008e-4bd8-a85f-4495c8116ca1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>ae0442db-28f4-4969-9d18-e4e905ca26a2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
