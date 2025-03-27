@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Untitled Project_fa fa-plus-circle</name>
+   <tag></tag>
+   <elementGuidId>baabe753-31c4-4ba2-ac68-de1bfa535804</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='myVideoTab']/div[2]/div[2]/div/div/span/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#myVideoTab > div.un-pix.we-scroll > div.upload-videos.we-scroll > div.item > div.bg-warning > span.control > button.btn.p-0.btn-link.fs-12.add-video > i.fa.fa-plus-circle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9953dbcd-53c2-4c6a-a92d-057f17413164</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-plus-circle</value>
+      <webElementGuid>3a9e23f2-e3c5-4d88-8ea8-1cf57e58b4e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myVideoTab&quot;)/div[@class=&quot;un-pix we-scroll&quot;]/div[@class=&quot;upload-videos we-scroll&quot;]/div[@class=&quot;item&quot;]/div[@class=&quot;bg-warning&quot;]/span[@class=&quot;control&quot;]/button[@class=&quot;btn p-0 btn-link fs-12 add-video&quot;]/i[@class=&quot;fa fa-plus-circle&quot;]</value>
+      <webElementGuid>29f7fa1b-ca1a-4ea7-b765-24645fb9ac2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='myVideoTab']/div[2]/div[2]/div/div/span/button/i</value>
+      <webElementGuid>44899e1f-b108-4bb7-a99e-7e0a07ee3162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[2]/div/div/span/button/i</value>
+      <webElementGuid>8d5e0ecb-169b-4581-97b9-1a0b11ca1d44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

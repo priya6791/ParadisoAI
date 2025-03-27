@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Pixabay_fa fa-plus-circle</name>
+   <tag></tag>
+   <elementGuidId>0b816426-955a-4197-96e9-fbc88dd99d26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='searchVideoTab']/div[2]/div[3]/div[2]/div/span/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>d25b6c88-ff51-45c9-9728-2b3a7a165751</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-plus-circle</value>
+      <webElementGuid>f6d777bf-8542-44c6-964c-8fa4085aef3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;searchVideoTab&quot;)/div[@class=&quot;un-pix we-scroll&quot;]/div[@class=&quot;upload-videos we-scroll&quot;]/div[@class=&quot;item&quot;]/div[@class=&quot;bg-warning&quot;]/span[@class=&quot;control&quot;]/button[@class=&quot;btn p-0 btn-link fs-12 add-video&quot;]/i[@class=&quot;fa fa-plus-circle&quot;]</value>
+      <webElementGuid>4ddaf3df-2a0f-4900-aa07-5c58677e59e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='searchVideoTab']/div[2]/div[3]/div[2]/div/span/button/i</value>
+      <webElementGuid>fd62ddc9-32a4-4d98-af25-9c8aec665033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/span/button/i</value>
+      <webElementGuid>11e6c39d-e28c-4b2b-a98b-cf9b9c935ac9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

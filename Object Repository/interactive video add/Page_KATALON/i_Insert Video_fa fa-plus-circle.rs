@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Insert Video_fa fa-plus-circle</name>
+   <tag></tag>
+   <elementGuidId>71d58344-d1cd-4b62-8863-0f7ced19b704</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='uploadVideoTab']/div[2]/div[2]/div/div/span/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-plus-circle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1c26b0a1-af69-4f17-9c8e-7994c03c91b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-plus-circle</value>
+      <webElementGuid>d2d22eeb-cfef-4cce-869c-9696e029f5c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uploadVideoTab&quot;)/div[@class=&quot;un-pix up we-scroll&quot;]/div[@class=&quot;upload-videos we-scroll&quot;]/div[@class=&quot;item&quot;]/div[@class=&quot;bg-warning&quot;]/span[@class=&quot;control&quot;]/button[@class=&quot;btn p-0 btn-link fs-12 add-video&quot;]/i[@class=&quot;fa fa-plus-circle&quot;]</value>
+      <webElementGuid>cb09a8ae-2bae-4290-8e99-f35a8c7ec801</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='uploadVideoTab']/div[2]/div[2]/div/div/span/button/i</value>
+      <webElementGuid>7e999392-8303-4c20-bdeb-60433c20a3d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div[2]/div[2]/div/div/span/button/i</value>
+      <webElementGuid>5f6378c2-6415-412e-beac-fa74fdcad7d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

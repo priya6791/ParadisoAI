@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Course create</name>
+   <name>interactive vide add methods</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>31736e68-e6fc-4ec5-9181-1132667fa6f4</testCaseGuid>
+   <testCaseGuid>02fd8376-a39b-48a2-a133-2640f81b75fa</testCaseGuid>
 </TestCaseEntity>

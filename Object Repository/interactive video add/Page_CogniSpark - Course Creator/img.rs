@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>189e8b46-05dc-4142-9586-b173ee2b1d97</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='videoListView']/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.embed-responsive.embed-responsive-16by9 > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5e586574-0333-43b2-8a87-f7432ed0cbc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/storage/composer/courses/6sbfybBbiOEl9qdK/files/thumbnail.png?time=1743062182644</value>
+      <webElementGuid>52680269-2b71-45e8-9c71-67ebb31c040f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;videoListView&quot;)/div[@class=&quot;card&quot;]/div[@class=&quot;embed-responsive embed-responsive-16by9&quot;]/img[1]</value>
+      <webElementGuid>e652d7e6-a4a8-46cc-a25f-c4d682318004</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='videoListView']/div/div/img</value>
+      <webElementGuid>58353b1c-1eb5-459b-9e00-4a37fc2e7839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/div/div/div/img</value>
+      <webElementGuid>2a63681f-70aa-46c3-a032-fed71637e2f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/storage/composer/courses/6sbfybBbiOEl9qdK/files/thumbnail.png?time=1743062182644']</value>
+      <webElementGuid>66282dbc-fa49-4fcc-8090-ab8b256b7e8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
